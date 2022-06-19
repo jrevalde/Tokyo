@@ -1,1 +1,3 @@
 this is the about section
+
+This is the location of the business.
